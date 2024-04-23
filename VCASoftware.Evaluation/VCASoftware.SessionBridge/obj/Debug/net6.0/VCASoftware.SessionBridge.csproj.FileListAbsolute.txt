@@ -1,0 +1,12 @@
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\bin\Debug\net6.0\VCASoftware.SessionBridge.deps.json
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\bin\Debug\net6.0\VCASoftware.SessionBridge.dll
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\bin\Debug\net6.0\VCASoftware.SessionBridge.pdb
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.csproj.AssemblyReference.cache
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.GeneratedMSBuildEditorConfig.editorconfig
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.AssemblyInfoInputs.cache
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.AssemblyInfo.cs
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.csproj.CoreCompileInputs.cache
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.dll
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\refint\VCASoftware.SessionBridge.dll
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\VCASoftware.SessionBridge.pdb
+J:\workspace\vca-software-evaluation\VCASoftware.Evaluation\VCASoftware.SessionBridge\obj\Debug\net6.0\ref\VCASoftware.SessionBridge.dll

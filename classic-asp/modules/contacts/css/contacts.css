@@ -1,0 +1,7 @@
+.contacts-grid {
+    grid-template-columns: 48px auto 112px 112px 112px 112px 112px;
+}
+
+.jquery-modal.blocker {
+    z-index: 1000;
+}

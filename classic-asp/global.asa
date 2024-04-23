@@ -1,0 +1,12 @@
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+
+    Sub Application_OnStart
+        ' Define the application name
+        Application("ApplicationName") = "Contact Application"
+        ' Define the root url of the application
+        Application("ApplicationRoot") = "/contacts"
+        ' Define support email address
+        Application("SupportEmail") = "mark@rawlingson.ca"
+    End Sub
+
+</SCRIPT>

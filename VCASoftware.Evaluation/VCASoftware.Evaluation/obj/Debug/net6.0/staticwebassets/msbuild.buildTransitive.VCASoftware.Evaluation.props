@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VCASoftware.Evaluation.props" />
+</Project>
